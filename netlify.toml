@@ -1,0 +1,6 @@
+[build]
+  command = "zola build"
+  publish = "public"
+
+[[plugins]]
+  package = "netlify-plugin-zola"
