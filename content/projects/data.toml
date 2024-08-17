@@ -8,6 +8,15 @@ links = [
   { name = "Github", url = "https://github.com/venuDreddy/notes" }
 ]
 
+[[project]]
+name = "Restaurant Menu"
+desc = "<ul><li>A menu display website using Strapi headless CMS for easy content management.</li><li>Integrated Strapi's API to retrieve and display menu data dynamically, ensuring scalability and flexibility in content updates.</li></ul>"
+tags = []
+img = "../../../projects/restaurant.png"
+links = [
+  { name = "Live Site", url = "https://restaurant-items.netlify.app" },
+  { name = "Github", url = "https://github.com/venuDreddy/restaurant" }
+]
 
 [[project]]
 name = "Quiz"
@@ -27,13 +36,4 @@ img = "../../../projects/anime.png"
 links = [
   { name = "Live Site", url = "https://anime-wave.netlify.app/" },
   { name = "Github", url = "https://github.com/venuDreddy/Anime-Wave" }
-]
-
-[[project]]
-name = "Restaurant Menu"
-desc = "<ul><li>A menu display website using Strapi headless CMS for easy content management.</li><li>Integrated Strapi's API to retrieve and display menu data dynamically, ensuring scalability and flexibility in content updates.</li></ul>"
-tags = []
-img = ""
-links = [
-  { name = "Github", url = "https://github.com/venuDreddy/restaurant" }
 ]
