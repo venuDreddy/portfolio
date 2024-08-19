@@ -1,6 +1,6 @@
 [[project]]
 name = "Notes"
-desc = "<ul><li>A full stack notes application with user signup, login, and CRUD operations using Node.js, React.js, Express.js, and PostgreSql.</li><li>Implemented secure authentication using JWT.</li></ul>"
+desc = "<ul><li>A full stack notes application with user signup, login, and CRUD operations using Node.js, React.js, Express.js, and PostgreSQL.</li><li>Implemented secure authentication using JWT.</li></ul>"
 tags = []
 img = "../../../projects/notes.png"
 links = [
@@ -10,12 +10,21 @@ links = [
 
 [[project]]
 name = "Restaurant Menu"
-desc = "<ul><li>A menu display website using Strapi headless CMS for easy content management.</li><li>Integrated Strapi's API to retrieve and display menu data dynamically, ensuring scalability and flexibility in content updates.</li></ul>"
+desc = "<ul><li>A menu display website using Strapi headless CMS for easy content management.</li><li>Integrated Strapi's API to retrieve and display menu data dynamically, ensuring scalability and flexibility in content updates.</li><li>Deployed Strapi on DigitalOcean.</li></ul>"
 tags = []
 img = "../../../projects/restaurant.png"
 links = [
   { name = "Live Site", url = "https://restaurant-items.netlify.app" },
   { name = "Github", url = "https://github.com/venuDreddy/restaurant" }
+]
+[[project]]
+name = "Colour Code Converter"
+desc = "<ul><li>Users can input color codes in one of three formats: HEX, RGB, or HSL.</li><li>The tool automatically converts the inputted color code into the other two formats.</li><li>The converted color is displayed with the corresponding background color on the page.</li></ul>"
+tags = []
+img = "../../../projects/colour-code-convertor.png"
+links = [
+  { name = "Live Site", url = "https://triple-color-code-converter.netlify.app/" },
+  { name = "Github", url = "https://github.com/venuDreddy/color-code-converter" }
 ]
 
 [[project]]
